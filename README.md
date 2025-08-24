@@ -22,9 +22,9 @@ This prototype serves as a hands-on exploration of key UI development concepts:
 ## Implementation Plan
 
 -   [ ] **Project Setup & Core Architecture**
-    -   [ ] Integrate R3 UniRx.
-    -   [ ] Create base `Model`, `ViewModel`, `View` classes.
-    -   [ ] Set up a basic data binding system.
+    -   [x] Integrate R3 UniRx.
+    -   [x] Create base `Model`, `ViewModel`, `View` classes.
+    -   [x] Set up a basic data binding system.
 
 -   [ ] **Data Models**
     -   [ ] `ItemModel`: Data structure for inventory items (ID, name, icon, type, stats).
