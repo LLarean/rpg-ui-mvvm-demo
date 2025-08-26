@@ -17,7 +17,7 @@ This prototype serves as a hands-on exploration of key UI development concepts:
     *   Minimizing allocations and GC pressure.
     *   Efficient rebinding and UI updates.
 4.  **Interactive Elements:** Implementing a Drag & Drop system for equipping items.
-5. "Input System:" Implementing navigation and control for both mouse and gamepad.
+5. **"Input System:"** Implementing navigation and control for both mouse and gamepad.
 
 ## Implementation Plan
 
