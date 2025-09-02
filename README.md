@@ -1,7 +1,7 @@
 # RPG UI Systems Demo
 
 [![Unity Version](https://img.shields.io/badge/Unity-6000.0+-black.svg?logo=unity)](https://unity.com/en/releases/editor/archive)
-![Status](https://img.shields.io/badge/Status-In%20Active%20Development-orange)
+![Status](https://img.shields.io/badge/Development-Paused-orange)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/LLarean/rpg-ui-mvvm-demo/blob/main/LICENSE)
 
 A practical demonstration of modern, optimized UI architecture in Unity, featuring a classic RPG inventory and equipment system.
